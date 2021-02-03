@@ -1,0 +1,124 @@
+{
+  "main": {
+    "name": "Laszlo Tomasek",
+    "occupation": "Freelancer",
+    "description": "Home-stay father, entrepreneur & learner",
+    "image": "laci.jpg",
+    "bio": "My name is Laszlo, this is my new portfolio page, as Full Stack ReactJS Developer.",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "info@fittweb.hu",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Budapest",
+      "state": "Hungary",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/lazzzeee",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/laszlotomasek/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/lacitomasek/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/Khazika",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Gábor Dénes College",
+        "degree": "BSC in IT & Economics",
+        "graduated": "June 2009",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Fittweb Bt.",
+        "title": "Founder && Web Developer",
+        "years": "November 2020 - Present",
+        "description": "Creating online presence, and apps"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "10%"
+      },
+      {
+        "name": "CSS",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "30%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "40%"
+      },
+      {
+        "name": "HTML5",
+        "level": "70%"
+      },
+      {
+        "name": "Wordpress",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone",
+        "category": "",
+        "image": "amazon.jpg",
+        "url": "https://clone-d0d58.web.app/"
+      },
+      {
+        "title": "Kidslife Web Store",
+        "category": "E-commerce",
+        "image": "kidslife.png",
+        "url": "https://kidslife.hu"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      },
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
